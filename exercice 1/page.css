@@ -1,0 +1,46 @@
+:root{
+    color: #128400;;
+    color: #ffff8c;
+    color: #fcfcfc;
+}
+
+body{
+    background-image:url("C360_2012-11-19-17-59-02.jpg") ;
+background-size:cover;
+}
+
+header{
+   background-color: #128400;
+   border-radius: 5px;
+   color: #eaeaea;
+}
+
+main{
+    background-color:#ffff8c ;
+    border-radius: 5px;
+
+  
+} 
+
+section{
+    color: #000;
+}
+
+a{
+    color: #128400;
+}
+
+button{
+    background-color: #128400;
+    border: 2px solid #128400;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+
+footer{
+    background-color: #fcfcfc;
+    color: #000;
+    border-radius: 5px;
+
+}
