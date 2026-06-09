@@ -21,7 +21,7 @@ main{
 }
 
 img{
-    width: 30vw;
+    width: 60vw;
     height: 60vh;
     object-fit: cover;
 }
